@@ -1,6 +1,7 @@
 # Survival Analysis Project
 
-Marketing Analytics Course – American University of Armenia (AUA)
+Marketing Analytics | DS223
+American University of Armenia (AUA)
 
 ## Overview
 
