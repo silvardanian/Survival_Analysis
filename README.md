@@ -75,7 +75,3 @@ Then open:
 ```text
 notebook.ipynb
 ```
-
-## Author
-
-Silva Vardanyan
